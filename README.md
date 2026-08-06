@@ -49,5 +49,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
