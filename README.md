@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3731-find-missing-elements](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -55,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
