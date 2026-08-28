@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
+| [0509-fibonacci-number](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
