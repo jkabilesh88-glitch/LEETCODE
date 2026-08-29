@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
