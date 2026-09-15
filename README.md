@@ -131,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
