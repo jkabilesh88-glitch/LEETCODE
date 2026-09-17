@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1035-uncrossed-lines) |
 | [1480-running-sum-of-1d-array](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1920-build-array-from-permutation](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [3731-find-missing-elements](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -157,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1920-build-array-from-permutation](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
