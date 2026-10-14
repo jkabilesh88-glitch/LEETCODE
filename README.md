@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
+| [0575-distribute-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1035-uncrossed-lines](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1035-uncrossed-lines) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0575-distribute-candies) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3731-find-missing-elements) |
 ## String
