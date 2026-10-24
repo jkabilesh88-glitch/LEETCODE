@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0860-lemonade-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0860-lemonade-change) |
 | [1035-uncrossed-lines](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1035-uncrossed-lines) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0860-lemonade-change) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
