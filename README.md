@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0860-lemonade-change) |
 | [1035-uncrossed-lines](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1035-uncrossed-lines) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0860-lemonade-change) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
