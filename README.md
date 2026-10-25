@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0860-lemonade-change) |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0860-lemonade-change) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0561-array-partition) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1672-richest-customer-wealth) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
