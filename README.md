@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0705-design-hashset) |
 | [0860-lemonade-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0860-lemonade-change) |
 | [1035-uncrossed-lines](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1035-uncrossed-lines) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0575-distribute-candies) |
+| [0705-design-hashset](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0705-design-hashset) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3731-find-missing-elements) |
 ## String
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -190,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
