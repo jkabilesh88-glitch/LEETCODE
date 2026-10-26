@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0561-array-partition) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0561-array-partition) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
