@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0705-design-hashset) |
+| [0821-shortest-distance-to-a-character](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0860-lemonade-change) |
 | [1035-uncrossed-lines](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1035-uncrossed-lines) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [1143-longest-common-subsequence](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0455-assign-cookies) |
+| [0821-shortest-distance-to-a-character](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 ## Design
 |  |
 | ------- |
