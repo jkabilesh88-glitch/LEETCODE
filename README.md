@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0228-summary-ranges) |
+| [0303-range-sum-query-immutable](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0455-assign-cookies) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Queue
