@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0705-design-hashset) |
 | [0821-shortest-distance-to-a-character](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0860-lemonade-change) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
