@@ -1,0 +1,12 @@
+class Solution {
+public:
+    bool checkString(string s) {
+        if(s.find("ba")!=string::npos)
+        {
+            return false;
+        }
+        else{
+            return true;
+        }
+    }
+};
