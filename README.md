@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0322-coin-change) |
+| [0414-third-maximum-number](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0561-array-partition) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
