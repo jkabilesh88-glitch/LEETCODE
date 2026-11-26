@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3731-find-missing-elements](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
