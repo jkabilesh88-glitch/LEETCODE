@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
+| [3360-stone-removal-game](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
