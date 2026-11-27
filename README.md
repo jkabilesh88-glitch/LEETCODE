@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3731-find-missing-elements](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0860-lemonade-change) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1143-longest-common-subsequence) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Breadth-First Search
 |  |
 | ------- |
