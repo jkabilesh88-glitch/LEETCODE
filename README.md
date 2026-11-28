@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3731-find-missing-elements](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3360-stone-removal-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/0705-design-hashset) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jkabilesh88-glitch/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
